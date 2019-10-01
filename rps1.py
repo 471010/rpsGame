@@ -1,7 +1,7 @@
 # Aaron Fuller
 #Rock paper scissors game
 
-# 
+# GitHub
 # Break into pieces
 # Welcome screen, with name entry
 # Score screen with computer and player, using the name
